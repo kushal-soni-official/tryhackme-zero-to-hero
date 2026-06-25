@@ -43,4 +43,4 @@ Instead of getting lost in thousands of thousands of rooms, I am documenting my 
 3. Follow the rooms as I add them daily.
 4. Drop a ⭐ if you found this roadmap helpful!
 
-*Created and maintained by [Kushal Soni](https://tryhackme.com/p/kusharusan) - Aiming for 1%> in THM Globally .*
+*Created and maintained by [Kushal Soni](https://tryhackme.com/p/kusharusan) - Aiming for <1% in THM Globally .*
