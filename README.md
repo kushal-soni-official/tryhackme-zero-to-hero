@@ -1,4 +1,4 @@
-# TryHackMe: Zero to Hero 🛡️
+# <img src="tryhackme-icon.svg" width="30" height="30" valign="middle"> TryHackMe: Zero to Hero 🛡️
 
 A curated, **0-cost** roadmap and daily tracker for cybersecurity beginners.
 
