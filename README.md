@@ -1,4 +1,4 @@
-# <img src="tryhackme-icon.svg" width="30" height="30" valign="middle"> TryHackMe: Zero to Hero 🛡️
+# <img src="tryhackme-icon.svg" width="30" height="30" valign="middle"> TryHackMe: Zero to Hero Guide !!
 
 A curated, **0-cost** roadmap and daily tracker for cybersecurity beginners.
 
@@ -43,4 +43,4 @@ Instead of getting lost in thousands of thousands of rooms, I am documenting my 
 3. Follow the rooms as I add them daily.
 4. Drop a ⭐ if you found this roadmap helpful!
 
-*Created and maintained by [Kushal Soni (Kusharu)](https://tryhackme.com/p/kusharusan) - Top 30% Globally.*
+*Created and maintained by [Kushal Soni](https://tryhackme.com/p/kusharusan) - Aiming for 1%> in THM Globally .*
